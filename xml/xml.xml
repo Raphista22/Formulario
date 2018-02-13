@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <questions>
-	<question>
+	<question id="p00">
 		<type>text</type>
 			<title>¿Cual fue la primera consola de sony?</title>
 			<answer>PS1</answer>
 	</question>
-	<question>
+	<question id="p01">
 		<type>text</type>
 			<title>¿Cual fue la primera consola con gráficos 3D de nintendo?</title>
 			<answer>nintendo64</answer>
 	</question>
-	<question>
+	<question id="p02">
 		<type>select</type>
 			<title>¿Existían los aviones en el año 1500?</title>
 			<option>Si</option>
@@ -18,14 +18,14 @@
 			<option>quizás</option>
 			<answer>1</answer>
 	</question>
-	<question>
+	<question id="p03">
 		<type>select</type>
 			<title>¿Existían los coches en el año 1990?</title>
 			<option>Si</option>
 			<option>no</option>
 			<answer>0</answer>
 	</question>
-	<question>
+	<question id="p04">
 		<type>radio</type>
 			<title>¿Rajoi es mujer o hombre?</title>
 				<option>Hombre</option>
@@ -33,7 +33,7 @@
 				<option>Hermafrodita</option>
 				<answer>0</answer>
 	</question>
-	<question>
+	<question id="p05">
 		<type>radio</type>
 		<title>¿Las setas de Mario Bros son amfetas o alucinógenos?</title>
 				<option>amfetas</option>
@@ -41,7 +41,7 @@
 				<option>Según si se las come o se las fuma</option>
 				<answer>2</answer>
 	</question>
-	<question>
+	<question id="p06">
 		<type>checkbox</type>
 			<title>¿Es Belén Esteban una adoradora de el diablo?</title>
 				<option>Si</option>
@@ -50,7 +50,7 @@
 				<answer>2</answer>
 				<answer>1</answer>
 	</question>
-	<question>
+	<question id="p07">
 		<type>checkbox</type>
 			<title>¿Es el Jueves la mejor revista de España?</title>
 				<option>Si</option>
@@ -59,7 +59,7 @@
 				<answer>2</answer>
 				<answer>0</answer>
 	</question>
-	<question>
+	<question id="p08">
 		<type>multiple</type>
 		<title>¿Es el Reí un skater profesional?</title>
 				<option>Si</option>
@@ -68,7 +68,7 @@
 				<answer>1</answer>
 				<answer>2</answer>
 	</question>
-	<question>
+	<question id="p09">
 		<type>multiple</type>
 		<title>¿El gato de Schrödinger esta vivo o muerto?</title>
 				<option>Vivo</option>
