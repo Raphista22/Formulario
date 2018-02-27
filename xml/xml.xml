@@ -16,14 +16,14 @@
 			<option>Si</option>
 			<option>no</option>
 			<option>quizás</option>
-			<answer>3</answer>
+			<answer>2</answer>
 	</question>
 	<question id="p03">
 		<type>select</type>
 			<title>¿Existían los coches en el año 1990?</title>
 			<option>Si</option>
 			<option>no</option>
-			<answer>2</answer>
+			<answer>1</answer>
 	</question>
 	<question id="p04">
 		<type>radio</type>
@@ -57,7 +57,7 @@
 				<option>No</option>
 				<option>Seguramente</option>
 				<answer>1</answer>
-				<answer>2</answer>
+				<answer>3</answer>
 	</question>
 	<question id="p08">
 		<type>multiple</type>
@@ -65,8 +65,8 @@
 				<option>Si</option>
 				<option>No</option>
 				<option>Lo era asta que se partió el culo con la tabla</option>
+				<answer>2</answer>
 				<answer>3</answer>
-				<answer>4</answer>
 	</question>
 	<question id="p09">
 		<type>multiple</type>
@@ -74,7 +74,7 @@
 				<option>Vivo</option>
 				<option>Muerto</option>
 				<option>Schrödinger lo sabe</option>
+				<answer>1</answer>
 				<answer>2</answer>
-				<answer>3</answer>
 	</question>
 </questions>
