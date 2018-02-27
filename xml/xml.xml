@@ -3,7 +3,7 @@
 	<question id="p00">
 		<type>text</type>
 			<title>¿Cual fue la primera consola de sony?</title>
-			<answer>PS1</answer>
+			<answer>ps1</answer>
 	</question>
 	<question id="p01">
 		<type>text</type>
@@ -16,14 +16,14 @@
 			<option>Si</option>
 			<option>no</option>
 			<option>quizás</option>
-			<answer>1</answer>
+			<answer>2</answer>
 	</question>
 	<question id="p03">
 		<type>select</type>
 			<title>¿Existían los coches en el año 1990?</title>
 			<option>Si</option>
 			<option>no</option>
-			<answer>0</answer>
+			<answer>1</answer>
 	</question>
 	<question id="p04">
 		<type>radio</type>
@@ -31,7 +31,7 @@
 				<option>Hombre</option>
 				<option>Mujer</option>
 				<option>Hermafrodita</option>
-				<answer>0</answer>
+				<answer>1</answer>
 	</question>
 	<question id="p05">
 		<type>radio</type>
@@ -39,7 +39,7 @@
 				<option>amfetas</option>
 				<option>alucinógenos</option>
 				<option>Según si se las come o se las fuma</option>
-				<answer>2</answer>
+				<answer>3</answer>
 	</question>
 	<question id="p06">
 		<type>checkbox</type>
@@ -48,7 +48,7 @@
 				<option>No</option>
 				<option>Mato al diablo por su hija</option>
 				<answer>2</answer>
-				<answer>1</answer>
+				<answer>3</answer>
 	</question>
 	<question id="p07">
 		<type>checkbox</type>
@@ -56,8 +56,8 @@
 				<option>Si</option>
 				<option>No</option>
 				<option>Seguramente</option>
+				<answer>1</answer>
 				<answer>2</answer>
-				<answer>0</answer>
 	</question>
 	<question id="p08">
 		<type>multiple</type>
@@ -65,8 +65,8 @@
 				<option>Si</option>
 				<option>No</option>
 				<option>Lo era asta que se partió el culo con la tabla</option>
-				<answer>1</answer>
 				<answer>2</answer>
+				<answer>3</answer>
 	</question>
 	<question id="p09">
 		<type>multiple</type>
@@ -74,7 +74,7 @@
 				<option>Vivo</option>
 				<option>Muerto</option>
 				<option>Schrödinger lo sabe</option>
-				<answer>0</answer>
 				<answer>1</answer>
+				<answer>2</answer>
 	</question>
 </questions>
