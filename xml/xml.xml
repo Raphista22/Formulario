@@ -16,14 +16,14 @@
 			<option>Si</option>
 			<option>no</option>
 			<option>quizás</option>
-			<answer>no</answer>
+			<answer>2</answer>
 	</question>
 	<question id="p03">
 		<type>select</type>
 			<title>¿Existían los coches en el año 1990?</title>
 			<option>Si</option>
 			<option>no</option>
-			<answer>Si</answer>
+			<answer>1</answer>
 	</question>
 	<question id="p04">
 		<type>radio</type>
