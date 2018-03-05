@@ -1,3 +1,5 @@
 # Formulario
+Versión mimificada de el proyecto
 
-https://cdn.rawgit.com/Raphista22/Formulario/ef16da44/html.html
+Link al formulario versión mimificada
+https://cdn.rawgit.com/Raphista22/Formulario/mimified/html.html
