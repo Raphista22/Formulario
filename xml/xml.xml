@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "question.dtd">
+
  <questions>
 	<question id="p00">
 		<type>text</type>
